@@ -1,7 +1,7 @@
 {
-    "TOKEN": "",
-    "ID": "",
-    "HASH": "",
+    "TOKEN": "8340861067:AAH9on3sGJmC9mx43d97GcaJu4NGgnyWlYw",
+    "ID": "29097697",
+    "HASH": "00979cdbb1ef5ee2ef7c0e45e21bcc7c",
     "Laravel_Session": "",
     "XSRF_TOKEN": "",
     "GDTot_Crypt": "",
@@ -14,6 +14,6 @@
     "CLOUDFLARE": "",
     "PORT": 5000,
     "DB_API": "",
-    "DB_OWNER": "bipinkrish",
+    "DB_OWNER": "NovaMultiFlix",
     "DB_NAME": "link_bypass.db"
 }
